@@ -5,4 +5,4 @@ para que o campo seja preenchido corretamente de acordo com as regras de negóci
 </p>
 
 <p> Abaixo possui algumas imagens dos projetos, alguns serão responsivos outros não, a idéia principal é a tratativa inicial dos dados e não o design em si.</p>
-<a href="www.google.com target="_blank"><img src="https://github.com/DanielBorbafs/Forms_and_Validations/blob/main/FitnessRegister/projeto-final.png"></a>
+<a href="https://www.google.com" target="_blank"><img src="https://github.com/DanielBorbafs/Forms_and_Validations/blob/main/FitnessRegister/projeto-final.png"></a>
