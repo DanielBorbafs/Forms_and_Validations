@@ -107,6 +107,10 @@ input {
     position: relative;
 }
 
+.ux span{
+    color: #f30a0a;
+    margin-top: 2rem;
+}
 small{
     margin-top: 1px;
     position: absolute;
@@ -214,6 +218,10 @@ main {
 }
 .text-input {
     width: 300px;
+}
+
+input{
+    color: black;
 }
 
 }

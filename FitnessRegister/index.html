@@ -32,32 +32,33 @@
                 <div class="ux">
                     <div class="input-icon">
                         <img src="img/email.svg" alt="">
-                        <input type="email" placeholder="informe seu email">
+                        <input required type="email" placeholder="informe seu email" name="email" id="name">
                     </div>
-                    <small style="color: black;">regra</small>
+                    
                 </div>
                 <div class="ux">
                     <div class="input-icon">
                         <img src="img/user.svg" alt="">
-                        <input type="text" placeholder="informe seu login">
+                        <input required minlength="10" type="text" id="name" name="name" aria-describedby="name-validation" placeholder="insira seu login"> 
+                        
 
                     </div>
-                    <small style="color: black;">regraa</small>
+                    <span id="name-validation" aria-live="assertive" class="validation-message" style="margin-top: 2rem;"></span>
                 </div>
 
                 <div class="ux">
                     <div class="input-icon">
                         <img src="img/pass.svg" alt="">
-                        <input type="password" placeholder="informe sua senha">
+                        <input required minlength="8" type="password" placeholder="informe sua senha">
                     </div>
-                    <small style="color: black;">regraa</small>
+           
                 </div>
                 <div class="ux">                   
                     <div class="input-icon">
                         <img src="img/pass.svg" alt="">
-                        <input type="password" placeholder="repita sua senha">
+                        <input required minlength="8" type="password" placeholder="repita sua senha">
                     </div>
-                    <small style="color: black;">regraa</small>
+                 
                 </div>
                 <div class="newsletter">
                     <input type="checkbox" name="" id="checkbox" style="border-radius: 4px;"> 
