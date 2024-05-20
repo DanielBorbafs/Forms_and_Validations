@@ -4,5 +4,5 @@ o principal objetivo é estudar técnicas para que não ocorra ruídos na transm
 para que o campo se ja preenchido corretamente de acordo com as regras de negócios impostas por cada miniprojeto.
 </p>
 
-
+<h2> Abaixo irá ter algumas imagens dos projetos, alguns serão responsivos outros não, a idéia principal é a tratativa inicial dos dados e não o design em si.</h2>
 <img src="https://github.com/DanielBorbafs/Forms_and_Validations/blob/main/FitnessRegister/projeto-final.png">
